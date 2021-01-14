@@ -28,4 +28,4 @@ Hi, me chamo *Joyce Bueno*. Tenho 20 anos e moro em Barueri - SP. Sou brasileira
 <hr/>
 
 ### Meu Status no Github
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joycebueno&show_icons=true&locale=en" alt="Joyce Bueno" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=buenoworks&show_icons=true&locale=en" alt="André Bueno" />
