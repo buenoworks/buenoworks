@@ -2,8 +2,12 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/andrebuenowork/) [![followersGit](https://img.shields.io/github/followers/joycebueno?style=social)](https://github.com/buenoworks) <img src="https://komarev.com/ghpvc/?username=buenoworks&label=Profile%20views&color=0e75b6&style=social" alt="André Bueno" /> ![Dev](https://img.shields.io/badge/Dev-AndréBueno-orange)
 
-Hi, me chamo *Joyce Bueno*. Tenho 20 anos e moro em Barueri - SP. Sou brasileira de pai argentino. Conheci a programação a 2 anos e dai em diante se tornou meu foco de profissão.
+Olá Pessoal, como vai? Me chamo André, tenho 28 anos e moro em Barueri - SP
+Tenho 9 anos de experiência como Web Designer / Programador Front-End estudando e trabalhando em equipe e gerenciando projetos, formado em Técnico em Informática para Internet.
 <hr/>
+
+### Skills
+-
 
 ### Hobbies ❤️
 - 📚 Leitura de livros e mangas.
@@ -29,3 +33,5 @@ Hi, me chamo *Joyce Bueno*. Tenho 20 anos e moro em Barueri - SP. Sou brasileira
 
 ### Meu Status no Github
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=buenoworks&show_icons=true&locale=en" alt="André Bueno" />
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=buenoworks)
