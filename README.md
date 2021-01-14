@@ -1,6 +1,6 @@
 ## Olá Pessoas... 👽
 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joyce-oquendo/) [![followersGit](https://img.shields.io/github/followers/joycebueno?style=social)](https://github.com/joycebueno) <img src="https://komarev.com/ghpvc/?username=joycebueno&label=Profile%20views&color=0e75b6&style=social" alt="Joyce Bueno" /> ![Dev](https://img.shields.io/badge/Dev-JoyceBueno-orange)
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/andrebuenowork/) [![followersGit](https://img.shields.io/github/followers/joycebueno?style=social)](https://github.com/buenoworks) <img src="https://komarev.com/ghpvc/?username=buenoworks&label=Profile%20views&color=0e75b6&style=social" alt="André Bueno" /> ![Dev](https://img.shields.io/badge/Dev-AndréBueno-orange)
 
 Hi, me chamo *Joyce Bueno*. Tenho 20 anos e moro em Barueri - SP. Sou brasileira de pai argentino. Conheci a programação a 2 anos e dai em diante se tornou meu foco de profissão.
 <hr/>
