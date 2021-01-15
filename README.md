@@ -24,7 +24,7 @@
 ![sublime](https://img.shields.io/badge/sublime-★-lightgrey?labelColor=F7DF1E&logo=sublime&style=for-the-badge&logoColor=black)
 ![Atom](https://img.shields.io/badge/Atom-★-lightgrey?labelColor=F7DF1E&logo=Atom&style=for-the-badge&logoColor=black)
 
-![photoshop](https://img.shields.io/badge/photoshop-★-lightgrey?labelColor=F7DF1E&logo=photoshop&style=for-the-badge&logoColor=black)
+![photoshop](https://img.shields.io/badge/photoshop-★-lightgrey?labelColor=F7DF1E&logo=Photoshop&style=for-the-badge&logoColor=black)
 ![illustrator](https://img.shields.io/badge/illustrator-★-lightgrey?labelColor=F7DF1E&logo=illustrator&style=for-the-badge&logoColor=black)
 ![zeplim](https://img.shields.io/badge/zeplim-★-lightgrey?labelColor=F7DF1E&logo=zeplim&style=for-the-badge&logoColor=black)
 
