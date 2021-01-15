@@ -15,16 +15,13 @@
 ![jquery](https://img.shields.io/badge/jquery-★★-lightgrey?labelColor=F7DF1E&logo=jquery&style=for-the-badge&logoColor=black)
 ![php](https://img.shields.io/badge/php-★-lightgrey?labelColor=F7DF1E&logo=php&style=for-the-badge&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-★-lightgrey?labelColor=444444&logo=Angular&style=for-the-badge&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-★-lightgrey?labelColor=F7DF1E&logo=Git&style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-★-lightgrey?labelColor=f05032&logo=Git&style=for-the-badge&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-★-lightgrey?labelColor=F7DF1E&logo=bootstrap&style=for-the-badge&logoColor=black)
 ![wordpress](https://img.shields.io/badge/wordpress-★-lightgrey?labelColor=F7DF1E&logo=wordpress&style=for-the-badge&logoColor=black)
-
 ![vscode](https://img.shields.io/badge/vscode-★-lightgrey?labelColor=F7DF1E&logo=vscode&style=for-the-badge&logoColor=black)
 ![visualstudio](https://img.shields.io/badge/visualstudio-★-lightgrey?labelColor=F7DF1E&logo=visualstudio&style=for-the-badge&logoColor=black)
 ![sublime](https://img.shields.io/badge/sublime-★-lightgrey?labelColor=F7DF1E&logo=sublime&style=for-the-badge&logoColor=black)
 ![Atom](https://img.shields.io/badge/Atom-★-lightgrey?labelColor=F7DF1E&logo=Atom&style=for-the-badge&logoColor=black)
-
 ![photoshop](https://img.shields.io/badge/photoshop-★-lightgrey?labelColor=F7DF1E&logo=Photoshop&style=for-the-badge&logoColor=black)
 ![illustrator](https://img.shields.io/badge/illustrator-★-lightgrey?labelColor=F7DF1E&logo=illustrator&style=for-the-badge&logoColor=black)
 ![zeplim](https://img.shields.io/badge/zeplim-★-lightgrey?labelColor=F7DF1E&logo=zeplim&style=for-the-badge&logoColor=black)
