@@ -27,4 +27,4 @@
 ![illustrator](https://img.shields.io/badge/illustrator-★-lightgrey?labelColor=F7DF1E&logo=illustrator&style=for-the-badge&logoColor=black)
 ![zeplim](https://img.shields.io/badge/zeplim-★-lightgrey?labelColor=F7DF1E&logo=zeplim&style=for-the-badge&logoColor=black)
 
-[![forthebadge made-with-python](https://simpleicons.org/icons/visualstudiocode.svg)](https://www.python.org/)
+[![forthebadge made-with-python](https://simpleicons.org/icons/Made%20with-visualstudiocode.svg)](https://www.python.org/)
