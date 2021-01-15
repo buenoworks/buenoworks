@@ -25,6 +25,4 @@
 ![Atom](https://img.shields.io/badge/Atom-★-lightgrey?labelColor=F7DF1E&logo=Atom&style=for-the-badge&logoColor=black)
 ![photoshop](https://img.shields.io/badge/photoshop-★-lightgrey?labelColor=F7DF1E&logo=Photoshop&style=for-the-badge&logoColor=black)
 ![illustrator](https://img.shields.io/badge/illustrator-★-lightgrey?labelColor=F7DF1E&logo=illustrator&style=for-the-badge&logoColor=black)
-![zeplim](https://img.shields.io/badge/zeplim-★-lightgrey?labelColor=F7DF1E&logo=zeplim&style=for-the-badge&logoColor=black)
-
-[![forthebadge made-with-python](https://simpleicons.org/icons/Made%20with-visualstudiocode.svg)](https://www.python.org/)
+![zeplim](https://img.shields.io/badge/zeplim-★-lightgrey?labelColor=F7DF1E&logo=A&style=for-the-badge&logoColor=black)
