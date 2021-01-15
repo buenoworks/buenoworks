@@ -19,7 +19,7 @@
 ![Git](https://img.shields.io/badge/Git-★-lightgrey?labelColor=f05032&logo=Git&style=for-the-badge&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-★-lightgrey?labelColor=563D7C&logo=bootstrap&style=for-the-badge&logoColor=black)
 ![wordpress](https://img.shields.io/badge/wordpress-★-lightgrey?labelColor=FF4500&logo=wordpress&style=for-the-badge&logoColor=black)
-![vscode](https://img.shields.io/badge/vscode-★-lightgrey?labelColor=007acc&logo=https://simpleicons.org/icons/visualstudiocode.svg&style=for-the-badge&logoColor=black)
+![vscode](https://img.shields.io/badge/vscode-★-lightgrey?labelColor=007acc&logo=VisualStudioCode&style=for-the-badge&logoColor=black)
 ![visualstudio](https://img.shields.io/badge/visualstudio-★-lightgrey?labelColor=F7DF1E&logo=visualstudio&style=for-the-badge&logoColor=black)
 ![sublime](https://img.shields.io/badge/sublime-★-lightgrey?labelColor=F7DF1E&logo=sublime&style=for-the-badge&logoColor=black)
 ![Atom](https://img.shields.io/badge/Atom-★-lightgrey?labelColor=F7DF1E&logo=Atom&style=for-the-badge&logoColor=black)
