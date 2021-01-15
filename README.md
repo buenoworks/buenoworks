@@ -17,7 +17,7 @@
 ![php](https://img.shields.io/badge/php-★-lightgrey?labelColor=F7DF1E&logo=php&style=for-the-badge&logoColor=black)
 ![bootstrap](https://img.shields.io/badge/bootstrap-★-lightgrey?labelColor=563D7C&logo=bootstrap&style=for-the-badge&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-★-lightgrey?labelColor=444444&logo=Angular&style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-⚫⚪-lightgrey?labelColor=f05032&logo=Git&style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-⚫ ⚫ ⚪-lightgrey?labelColor=f05032&logo=Git&style=for-the-badge&logoColor=white)
 ![wordpress](https://img.shields.io/badge/wordpress-★-lightgrey?labelColor=FF4500&logo=wordpress&style=for-the-badge&logoColor=black)
 ![vscode](https://img.shields.io/badge/vscode-★-lightgrey?labelColor=007acc&logo=simpleicons&style=for-the-badge&logoColor=black)
 ![visualstudio](https://img.shields.io/badge/visualstudio-★-lightgrey?labelColor=F7DF1E&logo=visualstudio&style=for-the-badge&logoColor=black)
